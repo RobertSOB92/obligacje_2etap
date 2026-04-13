@@ -10,7 +10,7 @@ export default function Footer() {
       {/* Glossary */}
       <div className="max-w-3xl mx-auto mb-10">
         <h4 className="text-white font-bold text-sm mb-4 uppercase tracking-wider">
-          📚 Słowniczek — po ludzku
+          📚 Słowniczek
         </h4>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
           <GlossaryItem
